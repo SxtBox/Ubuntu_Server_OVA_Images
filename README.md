@@ -1,6 +1,7 @@
      Ubuntu Server OVA Images
      Ubuntu 14.04.6 LTS
      Ubuntu 16.04.6 LTS
+     Ubuntu 20.04 LTS (You need to configure only sql server)
      
      [1] Download & Install VirtualBox
      Link For ALL
